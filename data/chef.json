@@ -189,7 +189,7 @@
         "address": "Gyeongju, South Korea",
         "totalLikes": 500,
         "chefPicture": "https://media.gettyimages.com/id/1317804578/photo/one-businesswoman-headshot-smiling-at-the-camera.jpg?s=612x612&w=0&k=20&c=EqR2Lffp4tkIYzpqYh8aYIPRr-gmZliRHRxcQC5yylY=",
-        "backgroundImage": "choi_min_ji_background.jpg",
+        "backgroundImage": "https://media.gettyimages.com/id/1272528349/photo/thanksgiving-dinner-table.jpg?s=612x612&w=0&k=20&c=jENwVqqgr6-Ue8zNvJVftGOCtAbA4BnbiJKWEDl65K4=",
         "shortBio": "Chef Choi Min-ji is a young and talented chef with a passion for modern Korean cuisine. She combines traditional Korean flavors with international influences to create innovative and visually stunning dishes. With a focus on seasonal and locally sourced ingredients, Chef Choi's creations are not only delicious but also a feast for the eyes.",
         "recipes": [
             {
@@ -246,7 +246,7 @@
         "address": "Jeju Island, South Korea",
         "totalLikes": 2000,
         "chefPicture": "https://media.gettyimages.com/id/486860378/photo/my-chefs-know-how-to-cook.jpg?s=612x612&w=0&k=20&c=F7e0Nr5Xr56VJS1NFffBFu_zkcW2ifsw6EHxvKPGh38=",
-        "backgroundImage": "han_sung_woo_background.jpg",
+        "backgroundImage": "https://media.gettyimages.com/id/1223139298/photo/high-angle-photograph-of-a-lattice-fruit-pie.jpg?s=612x612&w=0&k=20&c=lwaPyMjxqsfIC34Q9EQDWgoND15kDDbBGrkyzW5fojk=",
         "shortBio": "Chef Han Sung-woo is a master of Jeju Island cuisine. He grew up surrounded by the rich culinary traditions of the island and developed a deep appreciation for its unique ingredients and flavors. Chef Han specializes in seafood dishes and is known for his ability to create simple yet incredibly delicious meals that highlight the natural freshness of the ingredients.",
         "recipes": [
             {
@@ -302,7 +302,7 @@
         "address": "Seoul, South Korea",
         "totalLikes": 1800,
         "chefPicture": "https://media.gettyimages.com/id/877309720/photo/confident-chef-standing-arms-crossed-in-kitchen.jpg?s=612x612&w=0&k=20&c=-l7AWG8KCZmaagMDLdYZL0BEqYUT7dBeUX8n-DZOKKo=",
-        "backgroundImage": "kim_ji_hyun_background.jpg",
+        "backgroundImage": "https://media.gettyimages.com/id/1223648852/photo/homemade-pizza-with-beer.jpg?s=612x612&w=0&k=20&c=cnUXjVi3ak6086kBvB2aYA3gGhrY5MZl0_XB1oEJQXI=",
         "shortBio": "Chef Kim Ji-hyun is a renowned culinary expert in Korean royal cuisine. Trained in the traditional culinary arts, she is dedicated to preserving and promoting the culinary heritage of the Korean royal court. Chef Kim's dishes reflect the elegance, balance, and meticulous attention to detail that are characteristic of Korean palace cuisine.",
         "recipes": [
             {
@@ -317,7 +317,7 @@
                 ],
                 "cookingMethod": "1. Cook the sweet potato noodles according to package instructions. 2. Sauté vegetables and beef separately with soy sauce, sesame oil, and sugar. 3. Combine the noodles, vegetables, and beef. 4. Toss well to combine all the flavors.",
                 "rating": 4.7,
-                "imageLink": "japchae_image.jpg"
+                "imageLink": "https://media.gettyimages.com/id/1161996776/photo/stack-of-pancakes-with-maple-syrup-and-fresh-blueberries.jpg?s=612x612&w=0&k=20&c=YHiFq3dlQwXbQtYnxYFrAXzmai31lTRTvmgD0zFKwMM="
             },
             {
                 "recipeName": "Galbi Jjim",
@@ -331,7 +331,7 @@
                 ],
                 "cookingMethod": "1. Soak the beef short ribs in cold water for 30 minutes. 2. Rinse the ribs thoroughly and place them in a pot. 3. Add soy sauce, grated pear, minced garlic, grated ginger, and honey. 4. Simmer over low heat for 2-3 hours until the meat is tender. 5. Serve hot.",
                 "rating": 4.9,
-                "imageLink": "galbi_jjim_image.jpg"
+                "imageLink": "https://media.gettyimages.com/id/957820918/photo/cook-preparing-many-plates-in-a-restaurant-kitchen-catering-caterer.jpg?s=612x612&w=0&k=20&c=0_hoZRvlSIvM1-Y_V5pkqXZTYlJrtrZBtPwdwiYbnWw="
             },
             {
                 "recipeName": "Bibimbap",
