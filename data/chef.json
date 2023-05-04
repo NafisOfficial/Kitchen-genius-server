@@ -7,8 +7,8 @@
         "yearsOfExperience": 20,
         "address": "Seoul, South Korea",
         "totalLikes": 1200,
-        "chefPicture": "kim_ji_ho.jpg",
-        "backgroundImage": "kim_ji_ho_background.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/1300835557/photo/smiling-male-cook-on-gray-background.jpg?s=612x612&w=0&k=20&c=3ie8X4mxTkPmgVXqlNIZxE2yyaxVb5R0H-5hnTCzLgI=",
+        "backgroundImage": "https://media.gettyimages.com/id/1271294795/photo/spicy-thai-fried-pork.jpg?s=612x612&w=0&k=20&c=1XEc3ItGIQLf1ixUFVuNKAowRa4sRFM3RTF84Aqd6VA=",
         "shortBio": "Chef Kim Ji-ho is one of the most renowned chefs in South Korea. He started his career as a line cook in a small restaurant in Seoul and worked his way up to become the head chef of a five-star hotel. He is known for his innovative approach to Korean cuisine and has won several awards for his culinary creations.",
         "recipes": [
             {
@@ -63,8 +63,8 @@
         "yearsOfExperience": 15,
         "address": "Busan, South Korea",
         "totalLikes": 900,
-        "chefPicture": "park_min_ji.jpg",
-        "backgroundImage": "park_min_ji_background.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/1202358857/photo/female-chef-portrait.jpg?s=612x612&w=0&k=20&c=dORCASoCPfer8ex1aRSDTXzyNiTNdWMfmGq6FQVEoh0=",
+        "backgroundImage": "https://media.gettyimages.com/id/635912088/photo/pumpkin-salad.jpg?s=612x612&w=0&k=20&c=uRdmvjO16WsPFPV7GTWbxq6NUQuPBkv4gRJdtfZodzY=",
         "shortBio": "Chef Park Min-ji is a rising star in the Korean culinary scene. She learned to cook from her grandmother and has since developed her own unique style of fusion cuisine that blends traditional Korean flavors with modern techniques. She has worked in some of the top restaurants in Busan and is quickly gaining a reputation as one of the city's most talented chefs.",
         "recipes": [
             {
@@ -132,8 +132,8 @@
         "yearsOfExperience": 18,
         "address": "Incheon, South Korea",
         "totalLikes": 1500,
-        "chefPicture": "lee_seung_hoon.jpg",
-        "backgroundImage": "lee_seung_hoon_background.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/1217962587/photo/portrait-of-a-young-confident-smiling-asian-chinese-businessman.jpg?s=612x612&w=0&k=20&c=_2_An_UyM2EiLreTqEj3i8RciDlcSaRdvss6e1ZOqP8=",
+        "backgroundImage": "https://media.gettyimages.com/id/1182493107/photo/fresh-crispy-pork-burgers-in-a-row-at-food-market.jpg?s=612x612&w=0&k=20&c=FjjMuIAlyoiyGFVGUs5rRkOmIhR9de4FS-kwGDzfDCw=",
         "shortBio": "Chef Lee Seung-hoon is a master of traditional Korean cuisine. He has dedicated his career to preserving and showcasing the authentic flavors and techniques of Korean cooking. With extensive knowledge of regional specialties and a commitment to using high-quality, locally sourced ingredients, Chef Lee creates dishes that are both deeply rooted in tradition and delightfully innovative.",
         "recipes": [
             {
@@ -188,7 +188,7 @@
         "yearsOfExperience": 8,
         "address": "Gyeongju, South Korea",
         "totalLikes": 500,
-        "chefPicture": "choi_min_ji.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/1317804578/photo/one-businesswoman-headshot-smiling-at-the-camera.jpg?s=612x612&w=0&k=20&c=EqR2Lffp4tkIYzpqYh8aYIPRr-gmZliRHRxcQC5yylY=",
         "backgroundImage": "choi_min_ji_background.jpg",
         "shortBio": "Chef Choi Min-ji is a young and talented chef with a passion for modern Korean cuisine. She combines traditional Korean flavors with international influences to create innovative and visually stunning dishes. With a focus on seasonal and locally sourced ingredients, Chef Choi's creations are not only delicious but also a feast for the eyes.",
         "recipes": [
@@ -245,7 +245,7 @@
         "yearsOfExperience": 25,
         "address": "Jeju Island, South Korea",
         "totalLikes": 2000,
-        "chefPicture": "han_sung_woo.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/486860378/photo/my-chefs-know-how-to-cook.jpg?s=612x612&w=0&k=20&c=F7e0Nr5Xr56VJS1NFffBFu_zkcW2ifsw6EHxvKPGh38=",
         "backgroundImage": "han_sung_woo_background.jpg",
         "shortBio": "Chef Han Sung-woo is a master of Jeju Island cuisine. He grew up surrounded by the rich culinary traditions of the island and developed a deep appreciation for its unique ingredients and flavors. Chef Han specializes in seafood dishes and is known for his ability to create simple yet incredibly delicious meals that highlight the natural freshness of the ingredients.",
         "recipes": [
@@ -301,7 +301,7 @@
         "yearsOfExperience": 20,
         "address": "Seoul, South Korea",
         "totalLikes": 1800,
-        "chefPicture": "kim_ji_hyun.jpg",
+        "chefPicture": "https://media.gettyimages.com/id/877309720/photo/confident-chef-standing-arms-crossed-in-kitchen.jpg?s=612x612&w=0&k=20&c=-l7AWG8KCZmaagMDLdYZL0BEqYUT7dBeUX8n-DZOKKo=",
         "backgroundImage": "kim_ji_hyun_background.jpg",
         "shortBio": "Chef Kim Ji-hyun is a renowned culinary expert in Korean royal cuisine. Trained in the traditional culinary arts, she is dedicated to preserving and promoting the culinary heritage of the Korean royal court. Chef Kim's dishes reflect the elegance, balance, and meticulous attention to detail that are characteristic of Korean palace cuisine.",
         "recipes": [
