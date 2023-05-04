@@ -1,0 +1,352 @@
+[
+    {
+        "chefId": 1,
+        "chefName": "Kim Ji-ho",
+        "chefAge": 42,
+        "contactNumber": "+82-123-456-7890",
+        "yearsOfExperience": 20,
+        "address": "Seoul, South Korea",
+        "totalLikes": 1200,
+        "chefPicture": "kim_ji_ho.jpg",
+        "backgroundImage": "kim_ji_ho_background.jpg",
+        "shortBio": "Chef Kim Ji-ho is one of the most renowned chefs in South Korea. He started his career as a line cook in a small restaurant in Seoul and worked his way up to become the head chef of a five-star hotel. He is known for his innovative approach to Korean cuisine and has won several awards for his culinary creations.",
+        "recipes": [
+            {
+                "recipeName": "Galbijjim",
+                "ingredients": [
+                    "beef short ribs",
+                    "soy sauce",
+                    "sugar",
+                    "garlic",
+                    "ginger",
+                    "chestnuts"
+                ],
+                "cookingMethod": "1. Soak the beef in cold water for 1 hour. 2. In a large pot, combine the beef, soy sauce, sugar, garlic, ginger, and enough water to cover. 3. Bring to a boil, then reduce the heat to low and simmer for 2 hours. 4. Add the chestnuts and simmer for an additional 30 minutes.",
+                "rating": 4.8,
+                "imageLink": "galbijjim_image.jpg"
+            },
+            {
+                "recipeName": "Bibimbap",
+                "ingredients": [
+                    "rice",
+                    "vegetables",
+                    "beef",
+                    "egg",
+                    "gochujang",
+                    "sesame oil"
+                ],
+                "cookingMethod": "1. Cook the rice according to package instructions. 2. Sauté the vegetables and beef separately. 3. Fry the egg. 4. Place the rice in a bowl and arrange the vegetables and beef on top. 5. Add the fried egg and a dollop of gochujang. 6. Drizzle with sesame oil.",
+                "rating": 4.5,
+                "imageLink": "bibimbap_image.jpg"
+            },
+            {
+                "recipeName": "Japchae",
+                "ingredients": [
+                    "sweet potato noodles",
+                    "beef",
+                    "spinach",
+                    "carrots",
+                    "shiitake mushrooms",
+                    "soy sauce"
+                ],
+                "cookingMethod": "1. Cook the sweet potato noodles according to package instructions. 2. Sauté the beef, spinach, carrots, and shiitake mushrooms separately. 3. Combine all ingredients in a large bowl and toss with soy sauce.",
+                "rating": 4.7,
+                "imageLink": "japchae_image.jpg"
+            }
+        ]
+    },
+    {
+        "chefId": 2,
+        "chefName": "Park Min-ji",
+        "chefAge": 35,
+        "contactNumber": "+82-987-654-3210",
+        "yearsOfExperience": 15,
+        "address": "Busan, South Korea",
+        "totalLikes": 900,
+        "chefPicture": "park_min_ji.jpg",
+        "backgroundImage": "park_min_ji_background.jpg",
+        "shortBio": "Chef Park Min-ji is a rising star in the Korean culinary scene. She learned to cook from her grandmother and has since developed her own unique style of fusion cuisine that blends traditional Korean flavors with modern techniques. She has worked in some of the top restaurants in Busan and is quickly gaining a reputation as one of the city's most talented chefs.",
+        "recipes": [
+            {
+                "recipeName": "Sundubu Jjigae",
+                "ingredients": [
+                    "soft tofu",
+                    "clams",
+                    "vegetables",
+                    "gochujang",
+                    "garlic",
+                    "soy sauce"
+                ],
+                "cookingMethod": "1. Sauté the vegetables and clams in a pot. 2. Add water, garlic, soy sauce, and gochujang. 3. Bring to a boil and add soft tofu. 4. Simmer for a few minutes and serve hot.",
+                "rating": 4.6,
+                "imageLink": "sundubu_jjigae_image.jpg"
+            },
+            {
+                "recipeName": "Samgyeopsal",
+                "ingredients": [
+                    "pork belly",
+                    "garlic",
+                    "soybean paste",
+                    "lettuce",
+                    "kimchi",
+                    "sesame oil"
+                ],
+                "cookingMethod": "1. Grill the pork belly slices. 2. Wrap the grilled pork belly in lettuce. 3. Add garlic, soybean paste, kimchi, and sesame oil for additional flavor. 4. Enjoy!",
+                "rating": 4.9,
+                "imageLink": "samgyeopsal_image.jpg"
+            },
+            {
+                "recipeName": "Dakgalbi",
+                "ingredients": [
+                    "chicken",
+                    "gochujang",
+                    "sweet potato",
+                    "cabbage",
+                    "rice cakes",
+                    "cheese"
+                ],
+                "cookingMethod": "1. Marinate the chicken in gochujang sauce. 2. Stir-fry the marinated chicken with sweet potato, cabbage, and rice cakes. 3. Add cheese on top and melt. 4. Serve with steamed rice.",
+                "rating": 4.7,
+                "imageLink": "dakgalbi_image.jpg"
+            },
+            {
+                "recipeName": "Kimchi Jeon",
+                "ingredients": [
+                    "kimchi",
+                    "flour",
+                    "water",
+                    "salt",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "1. Mix kimchi, flour, water, and salt in a bowl to make a batter. 2. Heat vegetable oil in a pan. 3. Pour the batter into the pan and cook until both sides are golden brown.",
+                "rating": 4.2,
+                "imageLink": "kimchi_jeon_image.jpg"
+            }
+        ]
+    },
+    {
+        "chefId": 3,
+        "chefName": "Lee Seung-hoon",
+        "chefAge": 38,
+        "contactNumber": "+82-555-1234",
+        "yearsOfExperience": 18,
+        "address": "Incheon, South Korea",
+        "totalLikes": 1500,
+        "chefPicture": "lee_seung_hoon.jpg",
+        "backgroundImage": "lee_seung_hoon_background.jpg",
+        "shortBio": "Chef Lee Seung-hoon is a master of traditional Korean cuisine. He has dedicated his career to preserving and showcasing the authentic flavors and techniques of Korean cooking. With extensive knowledge of regional specialties and a commitment to using high-quality, locally sourced ingredients, Chef Lee creates dishes that are both deeply rooted in tradition and delightfully innovative.",
+        "recipes": [
+            {
+                "recipeName": "Bulgogi",
+                "ingredients": [
+                    "beef",
+                    "soy sauce",
+                    "pear",
+                    "garlic",
+                    "sesame oil",
+                    "green onions"
+                ],
+                "cookingMethod": "1. Slice the beef thinly. 2. Mix soy sauce, grated pear, minced garlic, and sesame oil to make a marinade. 3. Marinate the beef for at least 1 hour. 4. Stir-fry the marinated beef with green onions. 5. Serve with steamed rice.",
+                "rating": 4.8,
+                "imageLink": "bulgogi_image.jpg"
+            },
+            {
+                "recipeName": "Kimchi Jjigae",
+                "ingredients": [
+                    "kimchi",
+                    "pork",
+                    "tofu",
+                    "onion",
+                    "gochujang",
+                    "anchovy broth"
+                ],
+                "cookingMethod": "1. Sauté the pork, kimchi, and onion in a pot. 2. Add gochujang and anchovy broth. 3. Simmer for 15-20 minutes. 4. Add tofu and cook for another 5 minutes. 5. Serve hot.",
+                "rating": 4.6,
+                "imageLink": "kimchi_jjigae_image.jpg"
+            },
+            {
+                "recipeName": "Jjajangmyeon",
+                "ingredients": [
+                    "black bean paste",
+                    "pork",
+                    "onion",
+                    "zucchini",
+                    "potato starch noodles",
+                    "cucumber"
+                ],
+                "cookingMethod": "1. Sauté the pork, onion, and zucchini in a pan. 2. Add black bean paste and water. 3. Simmer until the sauce thickens. 4. Cook the potato starch noodles according to package instructions. 5. Serve the noodles with the black bean sauce and garnish with cucumber.",
+                "rating": 4.7,
+                "imageLink": "jjajangmyeon_image.jpg"
+            }
+        ]
+    },
+    {
+        "chefId": 4,
+        "chefName": "Choi Min-ji",
+        "chefAge": 30,
+        "contactNumber": "+82-987-654-3210",
+        "yearsOfExperience": 8,
+        "address": "Gyeongju, South Korea",
+        "totalLikes": 500,
+        "chefPicture": "choi_min_ji.jpg",
+        "backgroundImage": "choi_min_ji_background.jpg",
+        "shortBio": "Chef Choi Min-ji is a young and talented chef with a passion for modern Korean cuisine. She combines traditional Korean flavors with international influences to create innovative and visually stunning dishes. With a focus on seasonal and locally sourced ingredients, Chef Choi's creations are not only delicious but also a feast for the eyes.",
+        "recipes": [
+            {
+                "recipeName": "Soy-Glazed Grilled Mackerel",
+                "ingredients": [
+                    "mackerel",
+                    "soy sauce",
+                    "honey",
+                    "garlic",
+                    "ginger",
+                    "sesame seeds"
+                ],
+                "cookingMethod": "1. Clean and score the mackerel. 2. Mix soy sauce, honey, minced garlic, grated ginger, and sesame seeds to make a glaze. 3. Brush the glaze on the mackerel. 4. Grill the mackerel until cooked through. 5. Serve hot.",
+                "rating": 4.5,
+                "imageLink": "soy_glazed_mackerel_image.jpg"
+            },
+            {
+                "recipeName": "Tteokguk",
+                "ingredients": [
+                    "rice cakes",
+                    "beef",
+                    "soy sauce",
+                    "garlic",
+                    "eggs",
+                    "green onions"
+                ],
+                "cookingMethod": "1. Cook the rice cakes in boiling water until tender. 2. Sauté beef with soy sauce and minced garlic. 3. Add the cooked rice cakes to the beef. 4. Beat eggs and make a thin omelet. 5. Cut the omelet into thin strips. 6. Serve the tteokguk with the omelet strips and sliced green onions.",
+                "rating": 4.7,
+                "imageLink": "tteokguk_image.jpg"
+            },
+            {
+                "recipeName": "Bokkeumbap",
+                "ingredients": [
+                    "rice",
+                    "kimchi",
+                    "bacon",
+                    "carrot",
+                    "onion",
+                    "sesame oil"
+                ],
+                "cookingMethod": "1. Cook the rice and let it cool. 2. Sauté bacon, carrot, and onion in a pan. 3. Add kimchi and cook for a few minutes. 4. Add the cooked rice and stir-fry until well combined. 5. Drizzle with sesame oil before serving.",
+                "rating": 4.4,
+                "imageLink": "bokkeumbap_image.jpg"
+            }
+        ]
+    },
+
+    {
+        "chefId": 5,
+        "chefName": "Han Sung-woo",
+        "chefAge": 45,
+        "contactNumber": "+82-123-456-7890",
+        "yearsOfExperience": 25,
+        "address": "Jeju Island, South Korea",
+        "totalLikes": 2000,
+        "chefPicture": "han_sung_woo.jpg",
+        "backgroundImage": "han_sung_woo_background.jpg",
+        "shortBio": "Chef Han Sung-woo is a master of Jeju Island cuisine. He grew up surrounded by the rich culinary traditions of the island and developed a deep appreciation for its unique ingredients and flavors. Chef Han specializes in seafood dishes and is known for his ability to create simple yet incredibly delicious meals that highlight the natural freshness of the ingredients.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Abalone",
+                "ingredients": [
+                    "abalone",
+                    "soy sauce",
+                    "sesame oil",
+                    "garlic",
+                    "green onions",
+                    "black pepper"
+                ],
+                "cookingMethod": "1. Clean the abalone and score the flesh. 2. Mix soy sauce, sesame oil, minced garlic, chopped green onions, and black pepper to make a marinade. 3. Marinate the abalone for 15-20 minutes. 4. Grill the abalone over medium-high heat until cooked through. 5. Serve hot.",
+                "rating": 4.9,
+                "imageLink": "grilled_abalone_image.jpg"
+            },
+            {
+                "recipeName": "Haemul Pajeon",
+                "ingredients": [
+                    "assorted seafood",
+                    "green onions",
+                    "flour",
+                    "eggs",
+                    "water",
+                    "salt"
+                ],
+                "cookingMethod": "1. Slice the seafood and green onions. 2. Mix flour, eggs, water, and salt in a bowl to make a batter. 3. Add the seafood and green onions to the batter. 4. Heat vegetable oil in a pan. 5. Pour the batter into the pan and cook until both sides are golden brown.",
+                "rating": 4.7,
+                "imageLink": "haemul_pajeon_image.jpg"
+            },
+            {
+                "recipeName": "Gogi Jeongol",
+                "ingredients": [
+                    "beef",
+                    "vegetables",
+                    "mushrooms",
+                    "soy sauce",
+                    "sesame oil",
+                    "broth"
+                ],
+                "cookingMethod": "1. Slice the beef thinly. 2. Arrange the beef, vegetables, and mushrooms in a pot. 3. Mix soy sauce, sesame oil, and broth to make a seasoning sauce. 4. Pour the sauce into the pot. 5. Bring to a boil and simmer until the ingredients are cooked through.",
+                "rating": 4.6,
+                "imageLink": "gogi_jeongol_image.jpg"
+            }
+        ]
+    },
+    {
+        "chefId": 6,
+        "chefName": "Kim Ji-hyun",
+        "chefAge": 42,
+        "contactNumber": "+82-555-7890",
+        "yearsOfExperience": 20,
+        "address": "Seoul, South Korea",
+        "totalLikes": 1800,
+        "chefPicture": "kim_ji_hyun.jpg",
+        "backgroundImage": "kim_ji_hyun_background.jpg",
+        "shortBio": "Chef Kim Ji-hyun is a renowned culinary expert in Korean royal cuisine. Trained in the traditional culinary arts, she is dedicated to preserving and promoting the culinary heritage of the Korean royal court. Chef Kim's dishes reflect the elegance, balance, and meticulous attention to detail that are characteristic of Korean palace cuisine.",
+        "recipes": [
+            {
+                "recipeName": "Japchae",
+                "ingredients": [
+                    "sweet potato noodles",
+                    "vegetables",
+                    "beef",
+                    "soy sauce",
+                    "sesame oil",
+                    "sugar"
+                ],
+                "cookingMethod": "1. Cook the sweet potato noodles according to package instructions. 2. Sauté vegetables and beef separately with soy sauce, sesame oil, and sugar. 3. Combine the noodles, vegetables, and beef. 4. Toss well to combine all the flavors.",
+                "rating": 4.7,
+                "imageLink": "japchae_image.jpg"
+            },
+            {
+                "recipeName": "Galbi Jjim",
+                "ingredients": [
+                    "beef short ribs",
+                    "soy sauce",
+                    "pear",
+                    "garlic",
+                    "ginger",
+                    "honey"
+                ],
+                "cookingMethod": "1. Soak the beef short ribs in cold water for 30 minutes. 2. Rinse the ribs thoroughly and place them in a pot. 3. Add soy sauce, grated pear, minced garlic, grated ginger, and honey. 4. Simmer over low heat for 2-3 hours until the meat is tender. 5. Serve hot.",
+                "rating": 4.9,
+                "imageLink": "galbi_jjim_image.jpg"
+            },
+            {
+                "recipeName": "Bibimbap",
+                "ingredients": [
+                    "rice",
+                    "assorted vegetables",
+                    "beef",
+                    "soy sauce",
+                    "sesame oil",
+                    "fried egg"
+                ],
+                "cookingMethod": "1. Cook the rice and set it aside. 2. Sauté the vegetables and beef separately with soy sauce and sesame oil. 3. Arrange the rice and toppings in a bowl. 4. Top with a fried egg. 5. Mix everything together before eating.",
+                "rating": 4.8,
+                "imageLink": "bibimbap_image.jpg"
+            }
+        ]
+    }
+]
